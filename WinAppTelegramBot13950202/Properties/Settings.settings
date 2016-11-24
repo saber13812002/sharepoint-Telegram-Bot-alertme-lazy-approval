@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WinAppTelegramBot13950202.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="settingLastid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">86</Value>
+    </Setting>
+    <Setting Name="settingToken" Type="System.String" Scope="User">
+      <Value Profile="(Default)">287401999:AAG_D0e0k1MHTAt8JhK9UPYPfZkGTKBzyeE</Value>
+    </Setting>
+    <Setting Name="settingShpSrv" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://srv-shptest</Value>
+    </Setting>
+    <Setting Name="settingTargetList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ticketing</Value>
+    </Setting>
+    <Setting Name="settingInterval" Type="System.String" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="settingListContact" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Contacts</Value>
+    </Setting>
+    <Setting Name="settingTelegramAdminId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">151370482</Value>
+    </Setting>
+    <Setting Name="settingLogLoc" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\logs\</Value>
+    </Setting>
+    <Setting Name="settingWelcomMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">welcome please give me username and password</Value>
+    </Setting>
+    <Setting Name="settingTelegramField" Type="System.String" Scope="User">
+      <Value Profile="(Default)">telegram</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

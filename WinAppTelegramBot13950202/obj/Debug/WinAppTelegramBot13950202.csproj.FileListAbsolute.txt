@@ -1,0 +1,20 @@
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\bin\Debug\WinAppTelegramBot13950202.exe.config
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\bin\Debug\WinAppTelegramBot13950202.exe
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\bin\Debug\WinAppTelegramBot13950202.pdb
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.csprojResolveAssemblyReference.cache
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.Form1.resources
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.Properties.Resources.resources
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.csproj.GenerateResource.Cache
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.exe
+c:\users\saber\documents\visual studio 2012\Projects\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.pdb
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\bin\Debug\WinAppTelegramBot13950202.exe.config
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.Form1.resources
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.Properties.Resources.resources
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.csproj.GenerateResource.Cache
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\bin\Debug\WinAppTelegramBot13950202.exe
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\bin\Debug\WinAppTelegramBot13950202.pdb
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.exe
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.pdb
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\obj\Debug\WinAppTelegramBot13950202.csprojResolveAssemblyReference.cache
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tabatabaei-s\Desktop\WinAppTelegramBot13950202\WinAppTelegramBot13950202\WinAppTelegramBot13950202\bin\Debug\Newtonsoft.Json.xml
